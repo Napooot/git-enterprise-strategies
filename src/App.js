@@ -1,6 +1,6 @@
 import logo from './gator.gif';
 import './App.css';
-
+// teammate addition
 function App() {
   return (
     <div className="App">
